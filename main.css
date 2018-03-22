@@ -1,0 +1,112 @@
+body{
+    background-color: transparent;
+}
+
+#intro{
+    border: 5px double black;
+}
+
+
+/*Computers*/
+#surface{
+    /*background-color: beige;*/
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+#iMac{
+    height: 310px;
+    width: 200px;
+    /*float: left;*/
+    margin-left: 500px;
+}
+
+#iMac img{
+height: 250px;
+width: 400px;
+/*float: left;*/
+position: absolute;
+margin-left: 0px;
+}
+#macbook img{
+    height: 300px;
+    width: 300px;
+    position: absolute;
+}
+/*End Computers*/
+
+/*Housing*/
+#apart img{
+    height: 300px;
+    width: 400px;
+/*position: absolute;*/
+
+}
+
+#base{
+    position: absolute;
+    margin-left: 700px;
+}
+
+#base img{
+    width: 400px;
+    height: 300px;
+position: absolute;
+float: right;
+}
+
+#pent img{
+    position: absolute;
+    margin-left: 20px;
+}
+/*/*End Housing*/
+
+/*Sneakers*/
+#jordan img{
+    position: absolute;
+    height: 250px;
+    width:350px;
+}
+#yeezy img{
+    margin-left: 10px;
+    height: 250px;
+    width: 350px;
+}
+#yeezy{
+    margin-left: 600px;
+}
+/*End Sneakers*/
+
+/*/*Smartphones*/
+
+#galaxy img{
+position: absolute;
+height: 250px;
+width: 350px
+}
+
+#iphone img{
+    /*margin-left: 500px;*/
+    height: 250px;
+    width: 350px
+}
+#iphone{
+    margin-left: 520px;
+}
+
+#pixel img{
+    height: 250px;
+    width: 350px;
+}
+/*End Smartphones*/
+
+#netflix{
+    position: absolute;
+    height: 250px;
+    width: 350px;
+}
+#hulu{
+    margin-left: 600px;
+    height: 250px;
+    width: 350px;
+}
